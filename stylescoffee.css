@@ -21,7 +21,7 @@ h2 {
 h1, h2, p {
   text-align: center;
 }
-
+/* (.) dot means class*/
 .menu {
   width: 80%;
   background-color: burlywood;
@@ -34,6 +34,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top:-25;
 }
 hr {
   height: 2px;
